@@ -1,22 +1,32 @@
 import requests
 import pandas as pd
+import datetime
 
-url = "https://api.github.com/search/repositories?q=-pushed:<2021-01-01-created:>2021-12-31&per_page=100&page=10"
+start_date = datetime.date(2021, 1, 1)
+end_date = datetime.date(2021, 1, 3)
+delta = datetime.timedelta(days=1)
 
 header = {
   "Accept": "application/vnd.github.v3+json",
-  "Authorization": "token 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"
+  "Authorization": "token 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"
 }
 
-res = requests.get(url, headers=header)
-repos = res.json()
-jsons = pd.read_json(repos)
-
-while 'next' in res.links.keys():
-  res = requests.get(res.links['next']['url'], headers=header)
-  repos.update(res.json())
-print(repos["items"])
-
-
-
+while start_date <= end_date:
+    url = "https://api.github.com/search/repositories?q=created:" + str(start_date) + "&per_page=100&page=1"
+    res = requests.get(url, headers=header)
+    repos = res.json()
+    json = pd.DataFrame.from_dict(repos)
+    if str(start_date) == "2021-01-01":
+        jsons = json
+        print(1)
+    else:
+        jsons = pd.concat([jsons, json], ignore_index=True)
+        print(2)
+    while 'next' in res.links.keys():
+        res = requests.get(res.links['next']['url'], headers=header)
+        repos = res.json()
+        json = pd.DataFrame.from_dict(repos)
+        jsons = pd.concat([jsons, json], ignore_index=True)
+    start_date += delta
+    print(jsons)
 
