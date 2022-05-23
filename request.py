@@ -18,10 +18,8 @@ while start_date <= end_date:
     json = pd.DataFrame.from_dict(repos)
     if str(start_date) == "2021-01-01":
         jsons = json
-        print(1)
     else:
         jsons = pd.concat([jsons, json], ignore_index=True)
-        print(2)
     while 'next' in res.links.keys():
         res = requests.get(res.links['next']['url'], headers=header)
         repos = res.json()
