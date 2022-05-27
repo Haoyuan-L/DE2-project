@@ -6,7 +6,6 @@ import datetime
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 header = {"Authorization": "token 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"}
 
-
 # A simple function to use requests.post to make the API call. Note the json= section.
 def run_query(query, variables):
     request = requests.post("https://api.github.com/graphql", json={'query': query, 'variables': variables},
