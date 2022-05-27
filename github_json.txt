@@ -1,0 +1,1746 @@
+{
+    "data": {
+        "search": {
+            "pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "Y3Vyc29yOjEwMA=="
+            },
+            "repos": [
+                {
+                    "repo": {
+                        "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+                        "name": "DefaultCreds-cheat-sheet",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/project-serum/anchor",
+                        "name": "anchor",
+                        "allIssues": {
+                            "totalCount": 948
+                        },
+                        "openIssues": {
+                            "totalCount": 358
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 943
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/gh0stkey/Web-Fuzzing-Box",
+                        "name": "Web-Fuzzing-Box",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "HTML"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/miroslavpejic85/mirotalk",
+                        "name": "mirotalk",
+                        "allIssues": {
+                            "totalCount": 80
+                        },
+                        "openIssues": {
+                            "totalCount": 4
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 732
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence",
+                        "name": "Awesome-CobaltStrike-Defence",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/losfair/blueboat",
+                        "name": "blueboat",
+                        "allIssues": {
+                            "totalCount": 33
+                        },
+                        "openIssues": {
+                            "totalCount": 11
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/pentacent/keila",
+                        "name": "keila",
+                        "allIssues": {
+                            "totalCount": 76
+                        },
+                        "openIssues": {
+                            "totalCount": 20
+                        },
+                        "primaryLanguage": {
+                            "name": "Elixir"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/canyie/Riru-MomoHider",
+                        "name": "Riru-MomoHider",
+                        "allIssues": {
+                            "totalCount": 21
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 48
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/princeton-nlp/DensePhrases",
+                        "name": "DensePhrases",
+                        "allIssues": {
+                            "totalCount": 20
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ml-tooling/best-of-jupyter",
+                        "name": "best-of-jupyter",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/8090shuo/suning_seckill",
+                        "name": "suning_seckill",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ashutosh1919/react-liquidswipe",
+                        "name": "react-liquidswipe",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/VSFe/Algorithm_Study",
+                        "name": "Algorithm_Study",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/oberblastmeister/neuron.nvim",
+                        "name": "neuron.nvim",
+                        "allIssues": {
+                            "totalCount": 31
+                        },
+                        "openIssues": {
+                            "totalCount": 17
+                        },
+                        "primaryLanguage": {
+                            "name": "Lua"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 52
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/satoshi0212/AR_100Days",
+                        "name": "AR_100Days",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Swift"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/mmulet/code-relay",
+                        "name": "code-relay",
+                        "allIssues": {
+                            "totalCount": 12
+                        },
+                        "openIssues": {
+                            "totalCount": 7
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/oxalica/rust-overlay",
+                        "name": "rust-overlay",
+                        "allIssues": {
+                            "totalCount": 56
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": {
+                            "name": "Nix"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 625
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/xiaolai/spreadsheets-for-investors",
+                        "name": "spreadsheets-for-investors",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/rustcc/RustChinaConf2020",
+                        "name": "RustChinaConf2020",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 4
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/qirolab/laravel-themer",
+                        "name": "laravel-themer",
+                        "allIssues": {
+                            "totalCount": 11
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "PHP"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 82
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/utsuboco/r3f-perf",
+                        "name": "r3f-perf",
+                        "allIssues": {
+                            "totalCount": 23
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/prateekcode/AndroidEssentialLibraries",
+                        "name": "AndroidEssentialLibraries",
+                        "allIssues": {
+                            "totalCount": 7
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "Kotlin"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/AsaChiri/DDRecorder",
+                        "name": "DDRecorder",
+                        "allIssues": {
+                            "totalCount": 40
+                        },
+                        "openIssues": {
+                            "totalCount": 12
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/JaseZiv/worldfootballR",
+                        "name": "worldfootballR",
+                        "allIssues": {
+                            "totalCount": 94
+                        },
+                        "openIssues": {
+                            "totalCount": 10
+                        },
+                        "primaryLanguage": {
+                            "name": "R"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/dingyuchao/jd_seckill",
+                        "name": "jd_seckill",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/windicss/svelte-windicss-preprocess",
+                        "name": "svelte-windicss-preprocess",
+                        "allIssues": {
+                            "totalCount": 98
+                        },
+                        "openIssues": {
+                            "totalCount": 8
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/instatushq/out",
+                        "name": "out",
+                        "allIssues": {
+                            "totalCount": 21
+                        },
+                        "openIssues": {
+                            "totalCount": 8
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Ripolak/minict",
+                        "name": "minict",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/NikolaiT/uncaptcha3",
+                        "name": "uncaptcha3",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 16
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Deweh/CyberCAT-SimpleGUI",
+                        "name": "CyberCAT-SimpleGUI",
+                        "allIssues": {
+                            "totalCount": 86
+                        },
+                        "openIssues": {
+                            "totalCount": 10
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 278
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/cvlab-columbia/hyperfuture",
+                        "name": "hyperfuture",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/juanmjacobs/il2cpp-modder",
+                        "name": "il2cpp-modder",
+                        "allIssues": {
+                            "totalCount": 13
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/anupam-kumar-krishnan/Competitive_Programming",
+                        "name": "Competitive_Programming",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/mkeeter/rayray",
+                        "name": "rayray",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Zig"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 238
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/FrancescoSaverioZuppichini/ViT",
+                        "name": "ViT",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/tancik/learnit",
+                        "name": "learnit",
+                        "allIssues": {
+                            "totalCount": 8
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/danba340/minecraft-react",
+                        "name": "minecraft-react",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 21
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Mayconpm/CS50x_2021",
+                        "name": "CS50x_2021",
+                        "allIssues": {
+                            "totalCount": 7
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 40
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/YusukeIwaki/playwright-ruby-client",
+                        "name": "playwright-ruby-client",
+                        "allIssues": {
+                            "totalCount": 35
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Ruby"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/pka/awesome-georust",
+                        "name": "awesome-georust",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ParkYoungWoong/starbucks-vanilla-app",
+                        "name": "starbucks-vanilla-app",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "HTML"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 36
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/nuttylmao/NOOBS-CMDR",
+                        "name": "NOOBS-CMDR",
+                        "allIssues": {
+                            "totalCount": 13
+                        },
+                        "openIssues": {
+                            "totalCount": 9
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 62
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/DevShiftTeam/AppShift-MemoryPool",
+                        "name": "AppShift-MemoryPool",
+                        "allIssues": {
+                            "totalCount": 11
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/niveklabs/tfwriter",
+                        "name": "tfwriter",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": {
+                            "name": "HTML"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/SherryJYC/paper-MTMC",
+                        "name": "paper-MTMC",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/QAX-A-Team/dcpwn",
+                        "name": "dcpwn",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/panyang/AINLP-Archive",
+                        "name": "AINLP-Archive",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/zeromicro/goctl-swagger",
+                        "name": "goctl-swagger",
+                        "allIssues": {
+                            "totalCount": 24
+                        },
+                        "openIssues": {
+                            "totalCount": 7
+                        },
+                        "primaryLanguage": {
+                            "name": "PHP"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/mjebrahimi/Awesome-Nuget-Packages",
+                        "name": "Awesome-Nuget-Packages",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/AdamGaskins/barcoder",
+                        "name": "barcoder",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "PHP"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/huoji120/CowInjecter",
+                        "name": "CowInjecter",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 5
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/hackingthemarkets/interactive-brokers-demo",
+                        "name": "interactive-brokers-demo",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/njh/sonoff-ota-flash-cli",
+                        "name": "sonoff-ota-flash-cli",
+                        "allIssues": {
+                            "totalCount": 11
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Shell"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/python-engineer/python-task-automation",
+                        "name": "python-task-automation",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 5
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Rohith04MVK/AI-Art-Generator",
+                        "name": "AI-Art-Generator",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/theblacklotus/suicide-barbie",
+                        "name": "suicide-barbie",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 436
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/monguri/UE4NiagaraSandbox",
+                        "name": "UE4NiagaraSandbox",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/escamoteur/web_gpu",
+                        "name": "web_gpu",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Dart"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 38
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/FreshlyBrewedCode/unity-mesh-tilesets",
+                        "name": "unity-mesh-tilesets",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 22
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/samirelanduk/reddit-save",
+                        "name": "reddit-save",
+                        "allIssues": {
+                            "totalCount": 7
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 34
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/dannygaray60/funemustation",
+                        "name": "funemustation",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "GDScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/TatevKaren/data-science-popular-algorithms",
+                        "name": "data-science-popular-algorithms",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/aviclu/CDLM",
+                        "name": "CDLM",
+                        "allIssues": {
+                            "totalCount": 7
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/fuzui/RuoYi-Antdv",
+                        "name": "RuoYi-Antdv",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Vue"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 156
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference",
+                        "name": "BlazeFace-TFLite-Inference",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/MPCS-51042/materials",
+                        "name": "materials",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ASebastian27/Reddit-Account-Generator",
+                        "name": "Reddit-Account-Generator",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/akpw/mktxp",
+                        "name": "mktxp",
+                        "allIssues": {
+                            "totalCount": 23
+                        },
+                        "openIssues": {
+                            "totalCount": 14
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/airmessage/airmessage-android",
+                        "name": "airmessage-android",
+                        "allIssues": {
+                            "totalCount": 36
+                        },
+                        "openIssues": {
+                            "totalCount": 27
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 953
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/exeldro/obs-transition-table",
+                        "name": "obs-transition-table",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 28
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/TownyAdvanced/SiegeWar",
+                        "name": "SiegeWar",
+                        "allIssues": {
+                            "totalCount": 214
+                        },
+                        "openIssues": {
+                            "totalCount": 18
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 1424
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/NeVeSpl/NTypewriter",
+                        "name": "NTypewriter",
+                        "allIssues": {
+                            "totalCount": 46
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 143
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/tarikguney/manager-automation-v2",
+                        "name": "manager-automation-v2",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 72
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/fishuke/ytmparty",
+                        "name": "ytmparty",
+                        "allIssues": {
+                            "totalCount": 11
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 243
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/inflex-io/early",
+                        "name": "early",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Haskell"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/TwiN/g8",
+                        "name": "g8",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 85
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/lmiller1990/v-switch",
+                        "name": "v-switch",
+                        "allIssues": {
+                            "totalCount": 3
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 13
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/img-mapper/react-img-mapper",
+                        "name": "react-img-mapper",
+                        "allIssues": {
+                            "totalCount": 19
+                        },
+                        "openIssues": {
+                            "totalCount": 4
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 84
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/renoki-co/echo-server",
+                        "name": "echo-server",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 165
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/songshangru/BIT-CS-Learning",
+                        "name": "BIT-CS-Learning",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "VHDL"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 25
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/dbiir/T-SQL",
+                        "name": "T-SQL",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/xct/morbol",
+                        "name": "morbol",
+                        "allIssues": {
+                            "totalCount": 2
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/zyedidia/perforator",
+                        "name": "perforator",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 65
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/weastur/dikort",
+                        "name": "dikort",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/baptisteArno/node-youtube-music",
+                        "name": "node-youtube-music",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 2
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/lithdew/lmdb-zig",
+                        "name": "lmdb-zig",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Zig"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 15
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/dspinellis/speak",
+                        "name": "speak",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 46
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/ucaslei/csbooks",
+                        "name": "csbooks",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Jaeyo/personal-archive",
+                        "name": "personal-archive",
+                        "allIssues": {
+                            "totalCount": 13
+                        },
+                        "openIssues": {
+                            "totalCount": 7
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 152
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/tnorbye/kdoc-formatter",
+                        "name": "kdoc-formatter",
+                        "allIssues": {
+                            "totalCount": 7
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Kotlin"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/AusOpenTech/makingAPlan",
+                        "name": "makingAPlan",
+                        "allIssues": {
+                            "totalCount": 8
+                        },
+                        "openIssues": {
+                            "totalCount": 8
+                        },
+                        "primaryLanguage": null,
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/jstloyal/LinkedIn-clone",
+                        "name": "LinkedIn-clone",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/briancodex/tailwindcss-react-v1",
+                        "name": "tailwindcss-react-v1",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/zhaoolee/EasyTypora",
+                        "name": "EasyTypora",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/harryzcy/mailbox",
+                        "name": "mailbox",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/gettek/terraform-azurerm-policy-as-code",
+                        "name": "terraform-azurerm-policy-as-code",
+                        "allIssues": {
+                            "totalCount": 5
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "PowerShell"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/itizaworld/webev",
+                        "name": "webev",
+                        "allIssues": {
+                            "totalCount": 295
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/Giftedcat/Waveform",
+                        "name": "Waveform",
+                        "allIssues": {
+                            "totalCount": 6
+                        },
+                        "openIssues": {
+                            "totalCount": 5
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 21
+                            }
+                        }
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/joshhanley/livewire-autocomplete",
+                        "name": "livewire-autocomplete",
+                        "allIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "PHP"
+                        },
+                        "commitsCount": null
+                    }
+                },
+                {
+                    "repo": {
+                        "url": "https://github.com/rakumairu/simple-react-carousel",
+                        "name": "simple-react-carousel",
+                        "allIssues": {
+                            "totalCount": 1
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "commitsCount": {
+                            "history": {
+                                "totalCount": 10
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "rateLimit": {
+            "limit": 5000,
+            "cost": 1,
+            "remaining": 4996,
+            "resetAt": "2022-05-27T12:04:10Z"
+        }
+    }
+}
