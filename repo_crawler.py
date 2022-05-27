@@ -1,9 +1,10 @@
 from python_graphql_client import GraphqlClient
 import requests
 import json
+import datetime
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
-header = {"Authorization": "token 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"}
+header = {"Authorization": "token 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"}
 
 
 # A simple function to use requests.post to make the API call. Note the json= section.
@@ -70,20 +71,28 @@ if __name__ == '__main__':
     repos = []
     has_next_page = True
     after_cursor = None
-    variables = {
-        "query": "created:2021-01-01",
-    }
+    start_date = datetime.date(2021, 1, 1)
+    end_date = datetime.date(2021, 1, 3)
+    delta = datetime.timedelta(days=1)
 
-    while has_next_page:
-        data = client.execute(query=make_query(after_cursor), variables=variables, headers=header)
-        print(json.dumps(data, indent=4))
-        print()
-        for repo in data["data"]["search"]["repos"]:
-            repos.append(repo)
-        has_next_page = data["data"]["search"]["pageInfo"]["hasNextPage"]
-        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
+    # search limit sloved, narrow down the search range
+    while start_date <= end_date:
+        variables = {
+            "query": "created:" + str(start_date)
+        }
+        # pagination solved by traverse the next cursor
+        while has_next_page:
+            data = client.execute(query=make_query(after_cursor), variables=variables, headers=header)
+            print(json.dumps(data, indent=4))
+            print()
+            for repo in data["data"]["search"]["repos"]:
+                repos.append(repo)
+            has_next_page = data["data"]["search"]["pageInfo"]["hasNextPage"]
+            after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
+        has_next_page = True
+        start_date += delta
 
-    file = open('10pages_jsons.txt', 'w')
+    file = open('3_days_pages_jsons.txt', 'w')
     file.write(json.dumps(repos, indent=4))
     file.close()
 
