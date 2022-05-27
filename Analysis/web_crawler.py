@@ -33,7 +33,8 @@ if __name__ == '__main__':
                         print("ci exists")
                         ci = True
                         break
-
+            if test and ci:
+                break
 
 
 
