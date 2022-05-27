@@ -1,3 +1,4 @@
+#Restful Api, deprecated
 import requests
 import pandas as pd
 import datetime
