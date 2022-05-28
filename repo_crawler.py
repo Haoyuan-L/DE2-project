@@ -2,9 +2,11 @@ from python_graphql_client import GraphqlClient
 import requests
 import json
 import datetime
+import time
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 header = {"Authorization": "token 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"}
+
 
 # A simple function to use requests.post to make the API call. Note the json= section.
 def run_query(query, variables):
@@ -71,7 +73,7 @@ if __name__ == '__main__':
     has_next_page = True
     after_cursor = None
     start_date = datetime.date(2021, 1, 1)
-    end_date = datetime.date(2021, 1, 3)
+    end_date = datetime.date(2021, 12, 31)
     delta = datetime.timedelta(days=1)
 
     # search limit sloved, narrow down the search range
@@ -88,10 +90,14 @@ if __name__ == '__main__':
                 repos.append(repo)
             has_next_page = data["data"]["search"]["pageInfo"]["hasNextPage"]
             after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
+        rate_limit = int(data["data"]["rateLimit"]["remaining"])
+        if rate_limit <= 10:
+            time.sleep(3600)
+        print("Token request limitation has resumed!")
         has_next_page = True
         start_date += delta
 
-    file = open('3_days_pages_jsons.txt', 'w')
+    file = open('2_days_pages_jsons.txt', 'w')
     file.write(json.dumps(repos, indent=4))
     file.close()
 
