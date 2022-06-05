@@ -7,7 +7,6 @@ services:
       dockerfile: Dockerfile
     image: github-analysis:latest
     hostname: worker_1
-    command: -A workerA worker 
     volumes:
       - .:/Analysis
   worker_2:
@@ -15,8 +14,7 @@ services:
       context: .
       dockerfile: Dockerfile
     image: github-analysis:latest
-    hostname: worker_1
-    command: -A workerB worker
+    hostname: worker_2
     volumes:
       - .:/Analysis
   worker_3:
@@ -24,7 +22,6 @@ services:
       context: .
       dockerfile: Dockerfile
     image: github-analysis:latest
-    hostname: worker_1
-    command: -A workerC worker
+    hostname: worker_3
     volumes:
       - .:/Analysis
