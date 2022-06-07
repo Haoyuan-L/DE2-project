@@ -6,7 +6,7 @@ import json
 import urllib.parse
 
 pulsar_client = pulsar.Client('pulsar://130.238.28.164:6650')
-consumer = pulsar_client.subscribe('request', subscription_name='analysis-node') 
+consumer = pulsar_client.subscribe('request', subscription_name='analysis-node-1') 
 
 producer_one = pulsar_client.create_producer('response_one')
 producer_two = pulsar_client.create_producer('response_two')
